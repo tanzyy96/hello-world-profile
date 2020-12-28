@@ -11,7 +11,7 @@ import Intro from './Intro'
 const index = props => {
   return (
     <div class="overflow-hidden">
-      <Layout />
+      {/* <Layout /> */}
       <Home />
       <Intro />
       <Portfolio />

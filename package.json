@@ -24,6 +24,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-osx-dock": "^1.0.0",
+    "react-text-transition": "^1.1.4",
     "tailwindcss": "^2.0.1"
   },
   "devDependencies": {
